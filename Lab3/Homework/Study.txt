@@ -1,0 +1,8 @@
+- Why should we use function at all?
+    We should use function because it can help us organize programs into chunks that match how we think about the problem.
+- How to define/declare a function?
+    The syntax for a function definition is:
+        def NAME (PARAMETERS):
+          STATEMENTS
+- How to call/use a function?
+    
